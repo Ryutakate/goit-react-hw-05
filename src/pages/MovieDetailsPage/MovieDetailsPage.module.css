@@ -1,0 +1,30 @@
+.container {
+    padding: 20px;
+}
+
+.goBack {
+    display: inline-block;
+    margin-bottom: 20px;
+    text-decoration: none;
+    color: #007bff;
+}
+
+.details {
+    display: flex;
+    gap: 20px;
+    margin-bottom: 20px;
+}
+
+.poster {
+    width: 200px;
+    border-radius: 8px;
+}
+
+.additional ul {
+    list-style: none;
+    padding: 0;
+}
+
+.additional li {
+    margin-bottom: 10px;
+}
